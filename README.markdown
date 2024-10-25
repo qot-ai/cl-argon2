@@ -24,7 +24,7 @@ Clone this repository to your Quicklisp local-projects directory:
 
 ```bash
 cd ~/quicklisp/local-projects
-git clone https://github.com/yourusername/cl-argon2
+git clone https://github.com/qot-ai/cl-argon2
 ```
 
 Load the system in your Lisp REPL:

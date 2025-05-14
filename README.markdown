@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/qot-ai/cl-argon2)
+
 # CL-ARGON2
 Common Lisp bindings for the Argon2 password hashing algorithm using CFFI.
 
